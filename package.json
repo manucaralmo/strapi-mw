@@ -1,5 +1,5 @@
 {
-  "name": "my-project",
+  "name": "mawiback",
   "private": true,
   "version": "0.1.0",
   "description": "A Strapi application",
@@ -28,7 +28,7 @@
     "name": "A Strapi developer"
   },
   "strapi": {
-    "uuid": "9254a74e-11f8-44cc-b9d0-fe1f0e595fe6"
+    "uuid": "f4573237-649c-4545-b066-25778c20c6aa"
   },
   "engines": {
     "node": ">=10.16.0 <=14.x.x",
